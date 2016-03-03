@@ -1,0 +1,574 @@
+<resources>
+    <string name="app_name">NuTech \'16</string>
+    <string name="DrawerOpen">DrawerOpen</string>
+    <string name="DrawerClose">DrawerClose</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="clublist">
+        <item>Home</item>
+        <item>Chemozale</item>
+        <item>Civil Creed</item>
+        <item>Code-O-Crats</item>
+        <item>ECTronics</item>
+        <item>Eelluminati</item>
+        <item>EuphoRia</item>
+        <item>i-Manage</item>
+        <item>Mechatrix</item>
+        <item>Noesis</item>
+        <item>Robotics</item>
+        <item>ThinkIC</item>
+        <item>WorkShops</item>
+        <item>Sponsors</item>
+        <item>Contact Us</item>
+        <item>About Us</item>
+    </string-array>
+
+    <!-- Go like
+        clubname-titles
+        clubname-loc
+        clubname-datetime
+        clubname-other
+        clubname-desc
+        clubcall
+    -->
+
+    <string-array name="noesistitles">
+        <item>India Quiz</item>
+        <item>Debate</item>
+        <item>Scavenger Hunt</item>
+        <item>Spell Bee</item>
+        <item>Gully Circket</item>
+    </string-array>
+    <string-array name="noesisloc">
+        <item>9.00 TO 1.00 D308 ON 25/02</item>
+        <item>11.00 TO 3.00 D308 ON 24/02</item>
+        <item>1.00 TO 5.00 W Block ON 25/02</item>
+        <item>3.00 TO 6.00 D308 ON 24/02</item>
+        <item>11.00 TO 5.00 Cricket Gr. ON 24/02</item>
+    </string-array>
+    <string-array name="noesisdatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="noesisother">
+        <item>(Team of 2)</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="noesisdesc">
+        <item>Are you a chauvinist and love appreciating your country?  For all the intellectual minds of the country we present you the most exciting India Quiz! The questions will challenge your knowledge about India.</item>
+        <item>Always a favorite competition among the orators where the people fight for their point; either for or against the motion! So get ready with the most powerful weapon of the era that is “Speech”.</item>
+        <item>Scavenger hunt is kind of treasure hunt where you are given with the hunts of different location and you have to crack it to reach the destination!!</item>
+        <item>It’s a competition where your vocabulary and understanding of English words will be tested with the interesting games, word puzzles etc.</item>
+        <item>Get down and dirty with this gully cricket game Form a team of five and fulfil your desire to play your every time favorite sport!</item>
+    </string-array>
+    <string-array name="noesiscall">
+        <item>09726852140</item>
+        <item>09726852140</item>
+        <item>09726852140</item>
+        <item>09726852140</item>
+        <item>09726852140</item>
+    </string-array>
+
+    <string-array name="workshopstitles">
+        <item>CREO</item>
+        <item>AutoExtravaganza</item>
+        <item>Analytical Instruments</item>
+        <item>LTE tutorial</item>
+        <item>Arduino</item>
+        <item>Internet of things</item>
+        <item>360 photography</item>
+        <item>3-Storey Buildings</item>
+        <item>Android Development 6.0</item>
+        <item>Google Blogger</item>
+        <item>MATLAB</item>
+        <item>Workshop On Entrepreneurship</item>
+    </string-array>
+    <string-array name="workshopsloc">
+        <item>11.00 TO 6.00 PG001 ON 24/02</item>
+        <item>11.00 TO 6.00 A105 ON 24/02</item>
+        <item>9.00 TO 5.00 PG CHEM LAB ON 25/02</item>
+        <item></item>
+        <item>9.00 TO 6.00 D302 ON 25/02</item>
+        <item>11.00 TO 6.00 D302 ON 24/02</item>
+        <item>11.00 TO 4.00 A Audi ON 24/02</item>
+        <item>11.00 TO 6.00 PG013 ON 24/02</item>
+        <item>11.00 TO 6.00 D309 ON 24/02</item>
+        <item>9.00 TO 5.00 A Audi ON 25/02</item>
+        <item>11.00 TO 6.00 PG006 ON 24/02</item>
+        <item>9.00 TO 6.00 PG SEMINAR ON 24/02</item>
+    </string-array>
+    <string-array name="workshopsdatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="workshopsother">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="workshopsdesc">
+        <item>It is a workshop on CREO software. In this, the basic theory as well as modelling on CREO will be taught.</item>
+        <item>It is an automobile workshop in which a car will be shown in the dismantled form, explained about the working and necessity of every major component of a car and innovations in it will be explained.</item>
+        <item>The workshop covers basic principles, working, applications of sophisticated equipment’s like GC(Gas Chromatograph), AAS(Atomic absorption spectroscopy), TOC(Total Organic Carbon analyser), UV(Ultra Violet analyser), COD, etc.</item>
+        <item>You all know that 4G is here right!! But are you updated about this new tech. In this tutorial cum workshop you would be introduced to this amazing technology. This tutorial will be of 4-5 hrs.</item>
+        <item>In this workshop, students will be able to create amazing do it yourself projects using the amazing arduino, the students will be provided with a kit between teams to create the projects.</item>
+        <item>Internet of things means to connect any small everyday object to internet to make it smart. Eg. Connect you lights with your phone. A kit will be provided between 5 people. Certificate from Sense Fit technology will also be provided.</item>
+        <item>Students will learn the photography concepts such as the triangle of exposure and how to use the best of tools to create and edit enchanting images.</item>
+        <item>Structural analysis problem solving using software like midas, stadpro, bently etc.</item>
+        <item>Workshop on Android 6.0 Application Development with Material Design Using Android Studio. No basic knowledge of android is required. </item>
+        <item>Workshop for website development using Google Blogger and not even basic knowledge of scripting/web languages required.</item>
+        <item>MATLAB is an important tool for all the future minds prospering in Electrical Engineering. Its not just a tool to simulate your idea before implementing it on hardware to make it economical and safe, but also a support to analyse critically how efficient your design is. The FFT analysis, the mathematical operations, flexibility in interfacing with other hardware and ease in programming makes it a simple, comfortable and user friendly software that has become an inseparable part of the engineering studies. It is a great aid wherever you find yourself playing with the circuits and innovating, giving the world a new spark.</item>
+        <item>Workshop for the entrepreneurs who seek knowledge about the skills needed as an entrepreneur.</item>
+    </string-array>
+    <string-array name="workshopscall">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+
+    <string-array name="thinkictitles">
+        <item>Digi-tronics</item>
+        <item>Line follower</item>
+    </string-array>
+    <string-array name="thinkicloc">
+        <item>10.00 TO 2.00 D209 ON 25/02</item>
+        <item>11.00 TO 2.00 D109 ON 24/02</item>
+    </string-array>
+    <string-array name="thinkicdatetime">
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="thinkicother">
+        <item>(Team of 2)</item>
+        <item></item>
+    </string-array>
+    <string-array name="thinkicdesc">
+        <item>In team of two people, first of all one team member will look at the circuit design, memorize it, then will be blind folded and 2nd member of team will be called and based on instructions of 1st member, second member will complete the circuit design.</item>
+        <item>The path will be obtuse angled and thickness of path will be 3 cm. The line follower robo is basically a robo who follows the path automatically by detecting the black strip using IR sensors. The team which will take minimum time to complete the path will win. The decision of the judges shall be treated as final and binding on all.</item>
+    </string-array>
+    <string-array name="thinkiccall">
+        <item>09033777120</item>
+        <item>09033777120</item>
+    </string-array>
+
+
+    <!--EUPHORIA STARTS-->
+    <string-array name="euphoriatitles">
+        <item>SherMock</item>
+        <item>Quiz O’ Dare</item>
+        <item>Best from waste</item>
+        <item>Beg Borrow Steal</item>
+        <item>Jam / Block and Tackle</item>
+        <item>Nu-Lens</item>
+    </string-array>
+    <string-array name="euphorialoc">
+        <item>1.00 TO 4.00 C Audi ON 25/02</item>
+        <item>10.00 TO 1.00 D313 ON 25/02</item>
+        <item>4.00 TO 6.00 B109 ON 25/02</item>
+        <item>1.00 TO 4.00 A204 ON 24/02</item>
+        <item>4.00 TO 6.00 D305 ON 24/02</item>
+        <item></item>
+    </string-array>
+    <string-array name="euphoriadatetime">
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+        <item>FEB 22, 10:15 PM</item>
+    </string-array>
+    <string-array name="euphoriaother">
+        <item>(TEAM OF 4)</item>
+        <item>(TEAM OF 2)</item>
+        <item>(TEAM OF 2)</item>
+        <item>(TEAM OF 2)</item>
+        <item>(SINGLE)</item>
+        <item>(ONLINE)</item>
+    </string-array>
+    <string-array name="euphoriadesc">
+        <item>Are you a fan of Sherlock? Awaken him within you! The event will test the contestants by providing them with a set of clues to a mysterious crime in the college campus itself! The team that solves the clue and finds the guilty wins. Simple, right?</item>
+        <item>Knowledge doesn\'t triumph always! This NU-TECH test your guts along with wits, face the venturesome quiz made audacious by adding some crazy dares and fortune cards. Quiz it or dare it, just make it</item>
+        <item>Nothing beats “JUGAAD”. Explore your creativity while you make wonder from trash. Create innovative stuff out of waste(less useful stuff that participants would use, are supposed to be brought by them).</item>
+        <item>Are you a good bidder? Or great at bargaining? Or a little silent sneaky types? This game requires more than knowledge and talent, show us how weird crazy or smart you can get by collecting most radical, weird and extraordinary things faster than others, you can beg, borrow or have the audacity to steal.</item>
+        <item>So you think you can blabber, this is especially for volubles like you! It’s not just impromptu speaking, you would have to Defend (support) on block and attack (criticize) on tackle. The one that remains fluent through jam master’s rapidly changing block/tackle is the one who wins!</item>
+        <item>Our beautiful campus through your eyes. Let lens do the magic during one of the biggest tech fests. Capture the beautiful moments and campus during Nu-tech, send it to us and the best pictures win!!</item>
+    </string-array>
+    <string-array name="euphoriacall">
+        <item>09428708556</item>
+        <item>09428708556</item>
+        <item>09428708556</item>
+        <item>09428708556</item>
+        <item>09428708556</item>
+        <item>09428708556</item>
+    </string-array>
+    <!--EUPHORIA ENDS-->
+
+    <!---CHEMOZALE STARTS-->
+    <string-array name="chemozaletitle">
+        <item>Industrial Experience</item>
+        <item>Chem-E-Car</item>
+        <item>Chemology</item>
+        <item>Chemical Housie</item>
+    </string-array>
+    <string-array name="chemozaleloc">
+        <item>11.00 TO 1.00 A209 ON 24/02</item>
+        <item>11.00 TO 1.00 Football Gr. ON 24/02</item>
+        <item>2.00 TO 6.00 A209 ON 24/02</item>
+        <item>2.00 TO 5.00 D301 ON 24/02</item>
+    </string-array>
+    <string-array name="chemozaledatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="chemozaleother">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="chemozaledesc">
+        <item>There are 4 roles namely- CEO/President, Design Engineer, Production/Process Manager (Engineer) and Marketing Head. The roles can be selected by the participants themselves according to their interests.</item>
+        <item>This is an event for a team of 2. In this event participants will compete their working cars based on chemical reactions. The cars will be tested on smooth and rough surface. The cars will be judged based upon the distance travelled, efficiency of the reaction, cost of the raw materials and innovative design.</item>
+        <item>Quiz based on chemical engineering subjects and little bit of chemistry.</item>
+        <item>The participants will be given the standard Housie Ticket with random numbers on it. But the lucky numbers will be provided in the form of logical question based on Chemical Engineering and Chemistry</item>
+    </string-array>
+    <string-array name="chemozalecall">
+        <item>09913521182</item>
+        <item>09913521182</item>
+        <item>09913521182</item>
+        <item>09913521182</item>
+    </string-array>
+    <!---CHEMOZALE ENDS-->
+
+    <!-- CODE-O-CRATS STARTS-->
+    <string-array name="codeocratstitles">
+        <item>Code-de-pirates</item>
+        <item>Read and Decipher</item>
+        <item>Bugs Bunny</item>
+        <item>Void FNX</item>
+        <item>Think You’re Ready?</item>
+        <item>InfoManiacs</item>
+    </string-array>
+    <string-array name="codeocratsloc">
+        <item>11.00 TO 2.00 Amphi. ON 25/02</item>
+        <item>3.00 TO 6.00 D305 ON 25/02</item>
+        <item>3.00 TO 6.00 B Audi ON 24/02</item>
+        <item>12.00 TO 4.00 B104 ON 24/02</item>
+        <item>9.00 TO 11.00 D305 ON 25/02</item>
+        <item>11.00 TO 1.00 D310 ON 24/02</item>
+    </string-array>
+    <string-array name="codeocratsdatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="codeocratsother">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>(Mock Placement)</item>
+        <item>(War of Words)</item>
+    </string-array>
+    <string-array name="codeocratsdesc">
+        <item>This is a coding based treasure hunt in Nirma University, the team will be provided and android app in which they have to solve the programming code and can move to next place for next clue, this event takes the programmers to different places in Nirma University and ends up with 1 winning team.</item>
+        <item>Can you read code from a paper and give the output? Well if you can this event is for you. In this event participants will be given code on a paper and they have to give the correct output.</item>
+        <item>Do you have to skills to read, understand and change the code written by others? Are you capable enough to resolve those nasty bugs which are not allowing code to run? Then this event is for you.</item>
+        <item>A long coding event for the coders. This will check the teamwork and problem solving capabilities of the participants</item>
+        <item>The biggest test of a student at the end of his learning, is to be capable enough to work in the world, and for that, one must prove their mettle in the placement process. Here’s a mock placement for you to see how effective you are where it counts</item>
+        <item>Bored of the wanton debates and monotonous elocution competitions? Worry not! We bring for you a true-blooded War of Words! With multiple rounds spanning across domains to test the clarity of your tongue and the sharpness of your wit, culminating into a presidential debate style finale! This is nothing like anything ever seen before!</item>
+    </string-array>
+    <string-array name="codeocratscall">
+        <item>09426483565</item>
+        <item>09426483565</item>
+        <item>09426483565</item>
+        <item>09426483565</item>
+        <item>09426483565</item>
+        <item>09426483565</item>
+    </string-array>
+    <!-- CODE-O-CRATS ENDS-->
+
+
+    <!-- EC-TRONICS STARTS-->
+    <string-array name="ectronicstitle">
+        <item>Crackduino</item>
+        <item>Digimania</item>
+        <item>Analogism</item>
+        <item>Make in EC</item>
+    </string-array>
+    <string-array name="ectronicsloc">
+        <item>11.00 TO 2.00 D311 ON 24/02</item>
+        <item>2.00 TO 5.00 D201 ON 24/02</item>
+        <item>9.00 TO 12.00 D108 ON 25/02</item>
+        <item>12.00 TO 3.00 D212 ON 25/02</item>
+    </string-array>
+    <string-array name="ectronicsdatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="ectronicsother">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="ectronicsdesc">
+        <item>An event that gives you a great chance to link physical world with software and get the required thing done.You will be given some hardware modules and you will have to come up with a complete design that is a crack to problem statement.</item>
+        <item>This quiz will give you a great opportunity to implement what you have learned in your curriculum. To show cast your capabilities. We invite you to melt your brains in the digital world. Welcome All!!</item>
+        <item>An event designed to test knowledge of Analog IC circuits in terms of analysis, simulation and implementation skills. Circuits used for signal processing such as filters are to be emphasized in this event.</item>
+        <item>A project based competition aiming to test system designing skills of participant teams. The teams will be provided a problem statement along with dimensional constraints of the output design which they have to present on the day of event.</item>
+    </string-array>
+    <string-array name="ectronicscall">
+        <item>08511579683</item>
+        <item>08511579683</item>
+        <item>08511579683</item>
+        <item>08511579683</item>
+    </string-array>
+    <!-- EC-TRONICS ENDS-->
+
+    <!-- CIVILCREED STARTS-->
+    <string-array name="civilcreedtitle">
+        <item>Civilion’s Hunt</item>
+        <item>Poster Presentation</item>
+        <item>Plan de Nirma</item>
+        <item>Frame the Helipad</item>
+        <item>Civil Geek</item>
+    </string-array>
+    <string-array name="civilcreedloc">
+        <item>11.00 TO 1.00 B102 ON 24/02</item>
+        <item>11.00 TO 1.00 B Lobby ON 24/02</item>
+        <item>9.00 TO 2.00 B109 ON 25/02</item>
+        <item>1.00 TO 4.00 B209 ON 24/02</item>
+        <item>4.00 TO 6.00 B211 ON 24/02</item>
+    </string-array>
+    <string-array name="civilcreeddatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="civilcreedother">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="civilcreeddesc">
+        <item>Combination of Civil engineering based quiz as well as treasure hunt.</item>
+        <item>Participants are required to explain the poster to expert/s. Based on his/her innovative ideas, expert panel will declare winners.</item>
+        <item>Draw a plan of an engineering college. They need to draw a detailed Architecture plan of Civil Engineering Department showing the smallest detail considering given parameters.</item>
+        <item>Model will be fixed on a bottom frame. Load will be applied gradually on the top of helipad. Based on this criteria 2 winner teams will be declared</item>
+        <item>Each participant shortlisted from the written rounds will be interviewed by panel of faculties. Faculties will ask questions in depth for all fields of civil engineering.</item>
+    </string-array>
+    <string-array name="civilcreedcall">
+        <item>09909617007</item>
+        <item>09909617007</item>
+        <item>09909617007</item>
+        <item>09909617007</item>
+        <item>09909617007</item>
+    </string-array>
+    <!-- CIVILCREED ENDS -->
+
+    <!-- EELLUMINATI STARTS -->
+    <string-array name="eelluminatititles">
+        <item>Quiz Master</item>
+        <item>E placement</item>
+        <item>Tech treasure hunt</item>
+        <item>Electro Vyapar</item>
+    </string-array>
+    <string-array name="eelluminatiloc">
+        <item>1.00 TO 4.00 D314 ON 25/02</item>
+        <item>9.00 TO 1.00 D202 ON 25/02</item>
+        <item>3.00 TO 6.00 D102 ON 24/02</item>
+        <item>11.00 TO 2:00 D202 ON 24/02</item>
+    </string-array>
+    <string-array name="eelluminatidatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="eelluminatiother">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="eelluminatidesc">
+        <item>Quiz would be based on current trends in the field of technology and innovation. Questions related to industries providing innovative products would also be a part of the quiz</item>
+        <item>This session would provide participants the glimpse of placement process.</item>
+        <item>Here participants will be given a hint in terms of circuit problem or in technical manner like normal treasurehunt. They\'ll have to solve it and have to get the answer</item>
+        <item>The competition would be conducted in two phases. In the first phase the participants need to design the Electrical circuit of a house. The circuit must include the rating and energy consumption of the equipment’s included in the electrical network. In the second phase, the participants will be given a fixed budget and they will have to properly use it for bidding on the components they have been enlisted. The team which will make a most economical and appropriate design will be declared as winner</item>
+    </string-array>
+    <string-array name="eelluminaticall">
+        <item>09979088355</item>
+        <item>09979088355</item>
+        <item>09979088355</item>
+        <item>09979088355</item>
+    </string-array>
+    <!-- EELLUMINATI ENDS -->
+
+    <!-- MECHATRIX STARTS -->
+    <string-array name="mechatrixtitle">
+        <item>Water-Rocket</item>
+        <item>Aeromobile Quiz</item>
+        <item>Hydraulic Arm</item>
+    </string-array>
+    <string-array name="mechatrixloc">
+        <item>12.00 TO 3.00 Ground ON 24/02</item>
+        <item>2.00 TO 5.00 A202 ON 24/02</item>
+        <item>11.00 TO 2.00 W Block ON 24/02</item>
+    </string-array>
+    <string-array name="mechatrixdatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="mechatrixother">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="mechatrixdesc">
+        <item>It\'s time we set fire to our rockets and soar high up in the sky. But this time we will fuel our rockets with WATER!.Each participating team(2 members)/individual will need to design and fabricate a water powered rocket using a 1 liter capacity plastic bottle. These rockets will be filled with water before launching them by using a foot pump.</item>
+        <item>Quiz based on the fundamentals of automobile and aeromobiles</item>
+        <item>Ever dreamt of controlling a bot? Its your chance now to showcase the power of fluid(water). Design a hydraulic arm that can lift various objects and show your talent of hydraulic circuit designing</item>
+    </string-array>
+    <string-array name="mechatrixcall">
+        <item>07600609608</item>
+        <item>07600609608</item>
+        <item>07600609608</item>
+    </string-array>
+    <!-- MECHATRIX ENDS-->
+
+    <!--ROBOTICS STARTS-->
+    <string-array name="roboticstitle">
+        <item>Death Race</item>
+        <item>Hell in a Cell</item>
+        <item>Robominton</item>
+    </string-array>
+    <string-array name="roboticsloc">
+        <item>11.00 TO 5.00 Ground ON 24/02</item>
+        <item>12.00 TO 5.00 Ground ON 24/02</item>
+        <item>11.00 TO 5.00 Ground ON 24/02</item>
+    </string-array>
+    <string-array name="roboticsdatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="roboticsother">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="roboticsdesc">
+        <item>Here, two robots will race on a similar track and on meeting each other, will have to combat to win. This event tests the speed and balance of your bot. The event will be on a track that will be unveiled only on the day of the event.</item>
+        <item>Four robots fight against each other in a special arena designed by us. It is an event which works on “Survival of the Fittest”philosophy. May the best bot win!!</item>
+        <item>It\'s not about a badminton competition between two bots. It\'s a new robotic version of catapult. Hit the shuttle cock with as much force as you can. The bot hitting shuttlecock to the farthest distance will win</item>
+    </string-array>
+    <string-array name="roboticscall">
+        <item>09173049691</item>
+        <item>09173049691</item>
+        <item>09173049691</item>
+    </string-array>
+    <!--ROBOTICS ENDS-->
+
+    <!-- iManage starts-->
+    <string-array name="imanagetitle">
+        <item>Rocket Singh</item>
+        <item>B-Roadies</item>
+        <item>Vyaapar</item>
+        <item>Twist N’ Turn</item>
+        <item>MaAAD-Mad About Ad</item>
+        <item>FRIENDS-O-mania</item>
+    </string-array>
+    <string-array name="imanageloc">
+        <item>9.00 TO 12.00 B Audi ON 25/02</item>
+        <item>11.00 TO 2.00 D304 ON 24/02</item>
+        <item>11.00 TO 4.00 AB Lawn ON 24/02</item>
+        <item>2.00 TO 3.00 B Audi ON 25/02</item>
+        <item>11.00 TO 3.00 D304 ON 25/02</item>
+        <item>2.00 TO 5.00 D304 ON 24/02</item>
+    </string-array>
+    <string-array name="imanagedatetime">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="imanageother">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="imanagedesc">
+        <item>Rocket Singh is a Biz event that\'s fun for everyone. It starts off with a test of  the team\'s’ knowledge of the current advertising and marketing world. This will be followed by a treasure hunt and then the ultimate test of the team\'s marketing skills, of how they convince everyone the best!</item>
+        <item>Everyone\'s seen a bit of the popular TV Series Roadies. But have you ever been a part of the Business version of it? Come try your hands in the unique challenge of Business, Marketing and Teamwork…</item>
+        <item>As the name suggests, we\'re bringing the classic game of Monopoly back to life. This game of live Monopoly will be a test of the wits like no other.</item>
+        <item>Twist n Turn is an event that introduces a quiz with twists and turns the participant can never expect. The questions solved will be clues for the next question a participant will have to attempt, like following a pirate\'s map on paper. There can be dead ends and never ending loops too.</item>
+        <item>Here the participant need to present ideas about innovative productivity they can carry out as an entrepreneur or e-commerce website owner and make a brief advertisement.</item>
+        <item>Friends-o-mania is a quiz based on Hollywood serial FRIENDS, it has two round, one round of mcq and other round have descriptive type question which require the participate that they watched Friends serial.</item>
+    </string-array>
+    <string-array name="imanagecall">
+        <item>07567603008</item>
+        <item>07567603008</item>
+        <item>07567603008</item>
+        <item>07567603008</item>
+        <item>07567603008</item>
+        <item>07567603008</item>
+    </string-array>
+    <!-- iManage ends-->
+
+
+</resources>
